@@ -1,0 +1,7 @@
+﻿backend/backend/__pycache__
+backend/jars/__pycache__
+backend/jars/migrations
+backend/products/__pycache__
+backend/products/migrations
+backend/tasks/__pycache__
+backend/tasks/migrations

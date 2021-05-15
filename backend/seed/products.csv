@@ -1,0 +1,8 @@
+id,name,price,category name
+1,apple,100,fruits
+2,orange,150,fruits;citrus
+3,lemon,50,fruits;citrus
+4,cherry,75,fruits
+5,hammer,200,tools
+6,pliers,150,tools
+7,drill,500,tools;electric

@@ -1,0 +1,6 @@
+order_id,product_id,quantity,customer
+1,1,1,Stevo
+1,2,5,Marek
+2,5,100,Stevo
+3,5,1,Marek
+3,7,1,Marek
